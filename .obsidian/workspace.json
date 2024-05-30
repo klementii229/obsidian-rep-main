@@ -11,8 +11,12 @@
             "id": "604f9f0ba3f90069",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Крипта && Трейдинг/Начало.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Крипта && Трейдинг/Начало.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Крипта && Трейдинг/Начало.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Крипта && Трейдинг/Начало.md"
+              }
             }
           },
           {
@@ -145,36 +153,50 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false,
       "obsidian-projects:Open projects": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Создать новую доску": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "604f9f0ba3f90069",
   "lastOpenFiles": [
+    "resourse/Pasted image 20240530114304.png",
+    "resourse/Pasted image 20240530113632.png",
+    "resourse/Pasted image 20240530113624.png",
     "Крипта && Трейдинг/Методичка смарта-мани.md",
+    "Крипта && Трейдинг/Начало.md",
+    "Крипта && Трейдинг/Ретродропы/Список Tg-кликеров.md",
+    "resourse/Pasted image 20240522131312.png",
+    "Крипта && Трейдинг/Ретродропы/Без названия.canvas",
+    "Крипта && Трейдинг/Ретродропы/Безымянная Kanban-доска.md",
+    "Крипта && Трейдинг/30 идей пассивного дохода.md",
+    "resourse/Pasted image 20240522130302.png",
+    "resourse/Pasted image 20240522131323.png",
+    "resourse/Pasted image 20240522151117.png",
+    "Крипта && Трейдинг/Файлы от криптус.md",
+    "Крипта && Трейдинг/Ретродропы",
+    "Крипта && Трейдинг/Словарь-криптана.md",
+    "Programming/C++/Заголовочные файлы и что в них.md",
+    "Programming/C++/RTTI.md",
+    "Programming/C++/Динамическая типизация.md",
+    "Programming/C++/Базовые операции.md",
+    "Programming/C++/Первичный файл.md",
+    "шаблоны/Default Template.md",
+    "Programming/ООП",
+    "Programming/C++",
+    "Education/Выполненные цели/Сортировка/Цели на год.md",
+    "Programming",
+    "Education/Выполненные цели/Сортировка/Список целей.md",
+    "resourse/Алгоритм действий на иксы.pdf",
     "Безымянная Kanban-доска.md",
     "23-05-2024.md",
     "resourse/Pasted image 20240523231827.png",
     "resourse/Pasted image 20240523231133.png",
-    "Крипта && Трейдинг/Начало.md",
-    "Крипта && Трейдинг/Словарь-криптана.md",
     "resourse/Pasted image 20240522152139.png",
     "resourse/Pasted image 20240523225930.png",
-    "resourse/Pasted image 20240523225716.png",
-    "Крипта && Трейдинг/Файлы от криптус.md",
-    "шаблоны/Default Template.md",
     "Крипта && Трейдинг/Безымянная Kanban-доска.md",
     "Без названия.canvas",
-    "resourse/Алгоритм действий на иксы.pdf",
     "resourse/анализ фондов и инвестиций.pdf",
-    "resourse/Pasted image 20240522151117.png",
-    "resourse/Pasted image 20240522151806.png",
-    "resourse/Pasted image 20240522152936.png",
-    "resourse/Pasted image 20240522152836.png",
-    "resourse/Pasted image 20240522152741.png",
-    "Education/Выполненные цели/Сортировка/Цели на год.md",
-    "Education/Выполненные цели/Сортировка/Список целей.md",
     "шаблоны/Reference Template.md",
     "шаблоны/Daily Template.md",
     "шаблоны/Book Template.md",
@@ -183,22 +205,9 @@
     "шаблоны/Planner Template.md",
     "2024-05-24.md",
     "Без названия 1.canvas",
-    "2024-05-22.md",
-    "2022-05-22.md",
     "image/╨С╨╗╨╛╨║_тАЬ╨Ш╨╜╨▓╨╡╤Б╤В╨╕╤Ж╨╕╨╕тАЭ_╨г╤А╨╛╨║_14.pdf",
     "resourse/Гайд_по_выбору_личной_стратегии_Cryptus_Academy.pdf",
-    "Daily/2024-04-11 продуктивность.md",
-    "Daily/2024-04-10 продуктивность.md",
-    "Programming/Основы Python/Как работают переменные.md",
-    "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Крипта && Трейдинг",
-    "Programming/Парсинг сайтов",
-    "Programming/Основы С++",
-    "Programming/ООП",
-    "Programming/Linux",
-    "Programming",
-    "Education/Ежедневник/2024/Апрель.md",
-    "Education/Выполненные цели/2024.md",
-    "Welcome.md"
+    "Programming/Парсинг сайтов"
   ]
 }
