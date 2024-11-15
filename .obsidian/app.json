@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "resourse",
-  "promptDelete": true,
+  "promptDelete": false,
   "showLineNumber": false,
   "alwaysUpdateLinks": true
 }
