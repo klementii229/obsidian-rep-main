@@ -11,3 +11,4 @@ tags:
 4. Hamster
 5. Memefi
 6. Dotcoin
+7. TronXApp

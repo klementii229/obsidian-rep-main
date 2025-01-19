@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ae433a0af941a8d",
+        "id": "9931650b1f402ce0",
         "type": "tabs",
         "children": [
           {
-            "id": "604f9f0ba3f90069",
+            "id": "45b5f29fe1767aa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Крипта && Трейдинг/Начало.md",
+                "file": "Programming/C++/21 новая функция современного с++.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "21 новая функция современного с++"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Крипта && Трейдинг/Начало.md",
+                "file": "Programming/C++/21 новая функция современного с++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 21 новая функция современного с++"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Крипта && Трейдинг/Начало.md",
+                "file": "Education/Аниме/Список.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Список"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Крипта && Трейдинг/Начало.md"
-              }
+                "file": "Education/Аниме/Список.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Список"
             }
           },
           {
@@ -134,11 +150,12 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,56 +175,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "604f9f0ba3f90069",
+  "active": "45b5f29fe1767aa0",
   "lastOpenFiles": [
+    "Programming/C++/стандарт 17.md",
+    "Programming/C++/Сеть.md",
+    "resourse/Pasted image 20250118220201.png",
+    "resourse/Pasted image 20250118220112.png",
+    "Programming/C++/Стандарт 14.md",
+    "Programming/C++/Стандарт 11.md",
+    "Безымянная Kanban-доска 1.md",
+    "Без названия 1.canvas",
+    "18-01-2025.md",
+    "Programming/Linux/что надо.md",
+    "Programming/C++/Cmake.md",
+    "Programming/C++/21 новая функция современного с++.md",
+    "Programming/C++/RTTI.md",
+    "шаблоны/Default Template.md",
+    "Крипта && Трейдинг/Начало.md",
+    "Programming/C++/Стандарт 13.md",
+    "Крипта && Трейдинг/Файлы от криптус.md",
+    "Крипта && Трейдинг/Словарь-криптана.md",
+    "Крипта && Трейдинг/Методичка смарта-мани.md",
+    "Крипта && Трейдинг/30 идей пассивного дохода.md",
+    "Безымянная Kanban-доска.md",
+    "Без названия.canvas",
+    "Programming/C++/Динамическая типизация.md",
+    "Programming/Отдельные умные обрывки по прогр/Плюсовая война в статьях на хабре.md",
+    "Education/Игры/Список.md",
+    "Education/Аниме/Список.md",
+    "Education/Игры",
+    "Education/Аниме",
+    "Крипта && Трейдинг/Ретродропы/Список Tg-кликеров.md",
+    "Programming/Отдельные умные обрывки по прогр",
     "resourse/Pasted image 20240530114304.png",
     "resourse/Pasted image 20240530113632.png",
     "resourse/Pasted image 20240530113624.png",
-    "Крипта && Трейдинг/Методичка смарта-мани.md",
-    "Крипта && Трейдинг/Начало.md",
-    "Крипта && Трейдинг/Ретродропы/Список Tg-кликеров.md",
     "resourse/Pasted image 20240522131312.png",
     "Крипта && Трейдинг/Ретродропы/Без названия.canvas",
     "Крипта && Трейдинг/Ретродропы/Безымянная Kanban-доска.md",
-    "Крипта && Трейдинг/30 идей пассивного дохода.md",
     "resourse/Pasted image 20240522130302.png",
     "resourse/Pasted image 20240522131323.png",
     "resourse/Pasted image 20240522151117.png",
-    "Крипта && Трейдинг/Файлы от криптус.md",
     "Крипта && Трейдинг/Ретродропы",
-    "Крипта && Трейдинг/Словарь-криптана.md",
     "Programming/C++/Заголовочные файлы и что в них.md",
-    "Programming/C++/RTTI.md",
-    "Programming/C++/Динамическая типизация.md",
-    "Programming/C++/Базовые операции.md",
-    "Programming/C++/Первичный файл.md",
-    "шаблоны/Default Template.md",
     "Programming/ООП",
     "Programming/C++",
-    "Education/Выполненные цели/Сортировка/Цели на год.md",
     "Programming",
-    "Education/Выполненные цели/Сортировка/Список целей.md",
     "resourse/Алгоритм действий на иксы.pdf",
-    "Безымянная Kanban-доска.md",
-    "23-05-2024.md",
     "resourse/Pasted image 20240523231827.png",
-    "resourse/Pasted image 20240523231133.png",
-    "resourse/Pasted image 20240522152139.png",
-    "resourse/Pasted image 20240523225930.png",
-    "Крипта && Трейдинг/Безымянная Kanban-доска.md",
-    "Без названия.canvas",
     "resourse/анализ фондов и инвестиций.pdf",
-    "шаблоны/Reference Template.md",
-    "шаблоны/Daily Template.md",
-    "шаблоны/Book Template.md",
-    "шаблоны/Course Template.md",
-    "Крипта && Трейдинг/Book Template 1.md",
-    "шаблоны/Planner Template.md",
-    "2024-05-24.md",
-    "Без названия 1.canvas",
-    "image/╨С╨╗╨╛╨║_тАЬ╨Ш╨╜╨▓╨╡╤Б╤В╨╕╤Ж╨╕╨╕тАЭ_╨г╤А╨╛╨║_14.pdf",
-    "resourse/Гайд_по_выбору_личной_стратегии_Cryptus_Academy.pdf",
-    "Крипта && Трейдинг",
-    "Programming/Парсинг сайтов"
+    "image/╨С╨╗╨╛╨║_тАЬ╨Ш╨╜╨▓╨╡╤Б╤В╨╕╤Ж╨╕╨╕тАЭ_╨г╤А╨╛╨║_14.pdf"
   ]
 }
