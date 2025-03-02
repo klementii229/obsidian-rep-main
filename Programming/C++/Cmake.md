@@ -5,6 +5,8 @@
 4. 
 
 [Статья](https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-pervaya-Sintaksis-02-27)
+[https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-tretya-Testirovanie-i-paketirovanie-02-27](https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-tretya-Testirovanie-i-paketirovanie-02-27 "https://telegra.ph/Polnoe-rukovodstvo-po-CMake-CHast-tretya-Testirovanie-i-paketirovanie-02-27")
+
 
 ### Команды
 1. ```
