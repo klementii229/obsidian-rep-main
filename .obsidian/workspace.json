@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9931650b1f402ce0",
+        "id": "2211545a81a8cec2",
         "type": "tabs",
         "children": [
           {
-            "id": "70d0dbb761425a40",
+            "id": "10398628a92e257b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Крипта && Трейдинг/Начало.md",
-                "mode": "preview",
+                "file": "Programming/C++/стандарт 17.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Начало"
+              "title": "стандарт 17"
+            }
+          },
+          {
+            "id": "3e7e770e51d3c061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C++/Все стандарты сразу.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Все стандарты сразу"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cbad0767b2b80dd9",
@@ -155,8 +170,33 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "961b38165cb2e917",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "878db530dddfef33",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -171,62 +211,63 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Создать новую доску": false,
       "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "70d0dbb761425a40",
+  "active": "3e7e770e51d3c061",
   "lastOpenFiles": [
-    "Крипта && Трейдинг/Словарь-криптана.md",
+    "Programming/C++/стандарт 17.md",
+    "Programming/C++/21 новая функция современного с++.md",
+    "Programming/C++/Все стандарты сразу.md",
+    "Programming/C++/Стандарт 14.md",
+    "Programming/C++/Стандарт 11.md",
+    "Programming/Отдельные умные обрывки по прогр/Плюсовая война в статьях на хабре.md",
+    "Programming/C++/Cmake 2.md",
+    "Programming/C++/RTTI.md",
+    "Programming/C++/Cmake.md",
+    "Programming/Linux/docker.md",
+    "Без названия.md",
+    "Programming/Linux/что надо.md",
+    "Крипта && Трейдинг/Начало.md",
+    "resourse/Алгоритм действий на иксы.pdf",
+    "resourse/анализ фондов и инвестиций.pdf",
+    "resourse/Гайд_по_выбору_личной_стратегии_Cryptus_Academy.pdf",
     "Крипта && Трейдинг/Файлы от криптус.md",
+    "Крипта && Трейдинг/Словарь-криптана.md",
+    "Excalidraw/Drawing 2025-05-02 00.05.03.excalidraw.md",
+    "02-05-2025.md",
+    "Без названия.canvas",
     "Крипта && Трейдинг/Методичка смарта-мани.md",
+    "Excalidraw/Drawing 2025-05-02 00.01.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-02 00.01.44.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-02 00.01.48.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-02 00.01.25.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "resourse/Pasted image 20250227204723.png",
+    "resourse/Pasted image 20250227204723 1.png",
+    "resourse/Pasted image 20250227204728.png",
+    "resourse/Pasted image 20250227205900.png",
+    "resourse/Pasted image 20250227211117.png",
+    "resourse/Pasted image 20250227214226.png",
     "Крипта && Трейдинг/30 идей пассивного дохода.md",
     "Крипта && Трейдинг/Ретродропы/Список Tg-кликеров.md",
-    "Programming/C++/Все стандарты сразу.md",
-    "Programming/C++/Стандарт 11.md",
-    "Programming/C++/Стандарт 14.md",
     "Programming/C++/Динамическая типизация.md",
-    "Programming/C++/21 новая функция современного с++.md",
-    "Programming/C++/Базовые операции.md",
-    "Programming/C++/Cmake 2.md",
-    "Education/Аниме/Список.md",
-    "resourse/Pasted image 20250227214226.png",
-    "resourse/Pasted image 20250227211117.png",
-    "resourse/Pasted image 20250227205900.png",
-    "resourse/Pasted image 20250227204728.png",
-    "resourse/Pasted image 20250227204723.png",
     "resourse/Pasted image 20250227204718.png",
-    "Programming/C++/Cmake.md",
-    "Programming/C++/стандарт 17.md",
-    "Programming/C++/RTTI.md",
-    "Programming/Linux/что надо.md",
-    "Programming/C++/Сеть.md",
-    "Programming/C++/Первичный файл.md",
-    "Programming/C++/Заголовочные файлы и что в них.md",
-    "18-01-2025.md",
-    "Безымянная Kanban-доска.md",
     "Без названия 1.canvas",
-    "Без названия.canvas",
     "resourse/Pasted image 20250118220201.png",
     "resourse/Pasted image 20250118220112.png",
-    "Безымянная Kanban-доска 1.md",
-    "шаблоны/Default Template.md",
-    "Крипта && Трейдинг/Начало.md",
-    "Programming/C++/Стандарт 13.md",
     "Education/Игры",
     "Education/Аниме",
     "Programming/Отдельные умные обрывки по прогр",
-    "resourse/Pasted image 20240530114304.png",
-    "resourse/Pasted image 20240530113632.png",
     "Крипта && Трейдинг/Ретродропы/Без названия.canvas",
-    "Крипта && Трейдинг/Ретродропы",
-    "Programming/ООП",
-    "Programming/C++",
-    "Programming",
-    "resourse/Алгоритм действий на иксы.pdf",
-    "resourse/анализ фондов и инвестиций.pdf",
-    "image/╨С╨╗╨╛╨║_тАЬ╨Ш╨╜╨▓╨╡╤Б╤В╨╕╤Ж╨╕╨╕тАЭ_╨г╤А╨╛╨║_14.pdf"
+    "Крипта && Трейдинг/Ретродропы"
   ]
 }
