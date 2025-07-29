@@ -11,4 +11,3 @@ Qmake
 Cmake
 ![[Pasted image 20250227211117.png]]
 ![[Pasted image 20250227214226.png]]
-92
