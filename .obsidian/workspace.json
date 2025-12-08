@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7cff073a0f68640e",
+        "id": "b51f103171e6c913",
         "type": "tabs",
         "children": [
           {
-            "id": "3ecd069afc9755b5",
+            "id": "01f0fa9fa532b170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C++/21 новая функция современного с++.md",
+                "file": "Programming/C++/FTXUI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 новая функция современного с++"
+              "title": "FTXUI"
             }
           }
         ]
@@ -152,8 +152,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -180,12 +180,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,23 +203,26 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "3ecd069afc9755b5",
+  "active": "01f0fa9fa532b170",
   "lastOpenFiles": [
+    "Programming/C++/FTXUI.md",
+    "Без названия.base",
+    "Без названия 1.base",
+    "Programming/C++/Cmake 2.md",
+    "Programming/C++/Сборка.md",
+    "Programming/C++/Cmake.md",
+    "Programming/C++/Все стандарты сразу.md",
+    "Programming/C++/21 новая функция современного с++.md",
     "Programming/Linux/docker.md",
     "Programming/Linux/что надо.md",
-    "Programming/C++/Cmake 2.md",
-    "Programming/C++/Cmake.md",
     "Programming/C++/Стандарт 20.md",
     "Programming/C++/Стандарт 14.md",
     "Programming/C++/Стандарт 11.md",
     "Programming/C++/Сеть.md",
-    "Programming/C++/Сборка.md",
     "Programming/C++/Первичный файл.md",
     "Programming/C++/Заголовочные файлы и что в них.md",
     "Programming/C++/Динамическая типизация.md",
-    "Programming/C++/Все стандарты сразу.md",
     "Programming/C++/стандарт 17.md",
-    "Programming/C++/21 новая функция современного с++.md",
     "Programming/C++/RTTI.md",
     "Programming/C++/STL.md",
     "resourse/Pasted image 20250831155812.png",
@@ -240,7 +243,6 @@
     "Education/Выполненные цели/Сортировка/Список целей.md",
     "шаблоны/Default Template.md",
     "Крипта && Трейдинг/Файлы от криптус.md",
-    "Крипта && Трейдинг/Словарь-криптана.md",
     "resourse/Алгоритм действий на иксы.pdf",
     "resourse/анализ фондов и инвестиций.pdf",
     "resourse/Гайд_по_выбору_личной_стратегии_Cryptus_Academy.pdf",
@@ -250,8 +252,6 @@
     "Excalidraw",
     "Без названия 1.canvas",
     "Education/Игры",
-    "Education/Аниме",
-    "Programming/Отдельные умные обрывки по прогр",
     "Крипта && Трейдинг/Ретродропы/Без названия.canvas"
   ]
 }
