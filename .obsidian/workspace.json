@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C++/FTXUI.md",
+                "file": "Programming/Linux/Топ ПО.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FTXUI"
+              "title": "Топ ПО"
             }
           }
         ]
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +207,9 @@
   "active": "01f0fa9fa532b170",
   "lastOpenFiles": [
     "Programming/C++/FTXUI.md",
-    "Без названия.base",
+    "Programming/Linux/Топ ПО.md",
     "Без названия 1.base",
+    "Без названия.base",
     "Programming/C++/Cmake 2.md",
     "Programming/C++/Сборка.md",
     "Programming/C++/Cmake.md",
