@@ -4,42 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "33cc28f1cbe63807",
+        "id": "4c599bdf48a62346",
         "type": "tabs",
         "children": [
           {
-            "id": "d02d1fad798f01e3",
+            "id": "4667a21ae447f4aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бэкап ссылок с браузера с++ и лин.md",
+                "file": "Programming/Linux/Топ ПО.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Бэкап ссылок с браузера с++ и лин"
+              "title": "Топ ПО"
             }
           },
           {
-            "id": "7e48071db7aecfb2",
+            "id": "9f6facc44671afdd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Programming/C++/Roadmap.canvas",
                 "viewState": {
-                  "x": -3128.9449892688453,
-                  "y": -3584.8101814382217,
-                  "zoom": -1.6666666666666665
+                  "x": -3050.6658118140367,
+                  "y": 141.44393509227905,
+                  "zoom": -1.5215880946998666
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Roadmap"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +225,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming/C++/Roadmap.canvas"
+                "file": "Programming/Linux/Топ ПО.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Roadmap"
+              "title": "Свойства файла для Топ ПО"
             }
           }
         ],
@@ -237,8 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,11 +256,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "7e48071db7aecfb2",
+  "active": "4667a21ae447f4aa",
   "lastOpenFiles": [
-    "Programming/C++/FTXUI.md",
-    "Бэкап ссылок с браузера с++ и лин.md",
     "Programming/C++/Roadmap.canvas",
+    "Programming/Linux/Топ ПО.md",
+    "Бэкап ссылок с браузера с++ и лин.md",
+    "Programming/C++/FTXUI.md",
     "resourse/Pasted image 20260102231748.png",
     "resourse/Pasted image 20260102231520.png",
     "resourse/Pasted image 20260102230306.png",
@@ -276,7 +275,6 @@
     "Programming/C++/RTTI.md",
     "Excalidraw/Drawing 2026-01-02 20.50.36.excalidraw.md",
     "Excalidraw/Drawing 2026-01-02 21.01.07.excalidraw.md",
-    "Programming/Linux/Топ ПО.md",
     "Безымянная Kanban-доска.md",
     "Excalidraw/Drawing 2026-01-02 20.48.49.excalidraw.md",
     "Excalidraw",

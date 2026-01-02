@@ -6,67 +6,6 @@
 	},
 	"nodes":[
 		{
-			"id":"7aef62e3c8a5169f",
-			"type":"text",
-			"text":"![[Pasted image 20260102224033.png]]\nТоже с++17 хорошая.",
-			"styleAttributes":{},
-			"x":-1720,
-			"y":-2280,
-			"width":600,
-			"height":720
-		},
-		{
-			"id":"a3eb8f71833dbef6",
-			"type":"text",
-			"text":"![[Pasted image 20260102223106.png]]\nДля 20 стандарта очень хорошая книга.",
-			"styleAttributes":{},
-			"x":-1730,
-			"y":-1440,
-			"width":600,
-			"height":880
-		},
-		{
-			"id":"caee9ebf9cf0dcfc",
-			"type":"text",
-			"text":"![[Pasted image 20260102223624.png]]\nТоже с++20 хорошая книга",
-			"styleAttributes":{},
-			"x":-1000,
-			"y":-1440,
-			"width":600,
-			"height":880
-		},
-		{
-			"id":"b6fe533f90f65550",
-			"type":"text",
-			"text":"![[Pasted image 20260102223401.png]]\nПо boost хорошая книга.",
-			"styleAttributes":{},
-			"x":-280,
-			"y":-1440,
-			"width":600,
-			"height":880
-		},
-		{
-			"id":"29d7830dfddd6be7",
-			"type":"text",
-			"text":"![[Pasted image 20260102225147.png]]\n",
-			"styleAttributes":{},
-			"x":-1730,
-			"y":-400,
-			"width":600,
-			"height":880
-		},
-		{
-			"id":"43fa1ad9db5e8dda",
-			"type":"text",
-			"text":"![[Pasted image 20260102223834.png]]\nИли её или офф доку.",
-			"styleAttributes":{},
-			"x":-1000,
-			"y":-400,
-			"width":600,
-			"height":880
-		},
-		{"id":"0be366eaa210ca01","type":"file","file":"resourse/Осваиваем С++17.png","x":-1000,"y":-2379,"width":1320,"height":872},
-		{
 			"id":"2d2f0e24609633a4",
 			"type":"text",
 			"text":"![[Pasted image 20260102230034.png]]\n140 страниц проверки знаний",
@@ -97,19 +36,6 @@
 			"height":880
 		},
 		{
-			"id":"30f38618ffa819e5",
-			"type":"text",
-			"text":"![[Pasted image 20260102231748.png]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"border":null
-			},
-			"x":-3640,
-			"y":-1200,
-			"width":600,
-			"height":880
-		},
-		{
 			"id":"c2ef29ca4faff5d9",
 			"type":"text",
 			"text":"![[Pasted image 20260102231520.png]]\n",
@@ -134,7 +60,7 @@
 		{
 			"id":"cfaf726d96a9ae10",
 			"type":"text",
-			"text":"[CPP Core  Guidelines](https://cpp-core-guidelines-docs.vercel.app/introduction)\n[Core Guide](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)\n[400 вопросов С++](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS/blob/main/questions-400/junior.md)\n[Паттерны y2k](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Алгоритмы Диапазонов](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Cmake туториал](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)",
+			"text":"[CPP Core  Guidelines](https://cpp-core-guidelines-docs.vercel.app/introduction)\n[Core Guide](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)\n[400 вопросов С++](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS/blob/main/questions-400/junior.md)\n[Паттерны y2k](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Алгоритмы Диапазонов](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Cmake туториал](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)\n[Сайт умного мужика на анг, там тоже корунтины были](https://vishalchovatiya.com/posts\n[Путеводитель по неопр поведению](https://github.com/Nekrolm/ubbook)\n",
 			"styleAttributes":{
 				"textAlign":null,
 				"border":null
@@ -145,24 +71,132 @@
 			"height":400
 		},
 		{
-			"id":"dc6511000be7c50b",
+			"id":"30f38618ffa819e5",
 			"type":"text",
-			"text":"OS",
-			"styleAttributes":{},
-			"x":-4740,
-			"y":-3540,
-			"width":260,
-			"height":60
+			"text":"![[Pasted image 20260102231748.png]]\n[Ещё про паттерны на гит](https://github.com/georgedem975/patterns)\n",
+			"styleAttributes":{
+				"textAlign":"center",
+				"border":null
+			},
+			"x":-3640,
+			"y":-1200,
+			"width":600,
+			"height":880
+		},
+		{
+			"id":"97a4655c6dc79af2",
+			"type":"text",
+			"text":"Отдельное внимание к статьям ПРО ВСЁ ПО:\n[Кремниевая долина гугл](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ru.md)\n[Бэкенд](https://github.com/cheatsnake/backend-cheats)\n[Как сделать офигенный CRUD](https://github.com/beagreatengineer/how-to-develop-perfect-crud)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4400,
+			"y":860,
+			"width":560,
+			"height":400,
+			"color":"3"
 		},
 		{
 			"id":"e6d791aadff086f5",
 			"type":"text",
 			"text":"[BSD DOC](https://docs.freebsd.org/ru/books/handbook/preface/)",
 			"styleAttributes":{},
-			"x":-4790,
-			"y":-3259,
-			"width":360,
-			"height":100
+			"x":-5250,
+			"y":-3440,
+			"width":600,
+			"height":240
+		},
+		{
+			"id":"dc6511000be7c50b",
+			"type":"text",
+			"text":"# **OS**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5250,
+			"y":-3720,
+			"width":600,
+			"height":160,
+			"color":"4"
+		},
+		{
+			"id":"caee9ebf9cf0dcfc",
+			"type":"text",
+			"text":"![[Pasted image 20260102223624.png]]\nТоже с++20 хорошая книга",
+			"styleAttributes":{},
+			"x":-1300,
+			"y":-1440,
+			"width":600,
+			"height":880
+		},
+		{
+			"id":"43fa1ad9db5e8dda",
+			"type":"text",
+			"text":"![[Pasted image 20260102223834.png]]\nИли её или офф доку.",
+			"styleAttributes":{},
+			"x":-1300,
+			"y":-400,
+			"width":600,
+			"height":880
+		},
+		{
+			"id":"b6fe533f90f65550",
+			"type":"text",
+			"text":"![[Pasted image 20260102223401.png]]\nПо boost хорошая книга.",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-1440,
+			"width":600,
+			"height":880
+		},
+		{"id":"0be366eaa210ca01","type":"file","file":"resourse/Осваиваем С++17.png","x":-1300,"y":-2379,"width":1320,"height":872},
+		{
+			"id":"28c53979dc0d6c27",
+			"type":"text",
+			"text":"[Исскуство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-580,
+			"y":-360,
+			"width":600,
+			"height":840,
+			"color":"3"
+		},
+		{
+			"id":"a3eb8f71833dbef6",
+			"type":"text",
+			"text":"![[Pasted image 20260102223106.png]]\nДля 20 стандарта очень хорошая книга.",
+			"styleAttributes":{},
+			"x":-2030,
+			"y":-1440,
+			"width":600,
+			"height":880
+		},
+		{
+			"id":"29d7830dfddd6be7",
+			"type":"text",
+			"text":"![[Pasted image 20260102225147.png]]\n",
+			"styleAttributes":{},
+			"x":-2030,
+			"y":-400,
+			"width":600,
+			"height":880
+		},
+		{
+			"id":"7aef62e3c8a5169f",
+			"type":"text",
+			"text":"![[Pasted image 20260102224033.png]]\nТоже с++17 хорошая.",
+			"styleAttributes":{},
+			"x":-2020,
+			"y":-2280,
+			"width":600,
+			"height":720
+		},
+		{
+			"id":"0a4fa8f3997cae69",
+			"type":"text",
+			"text":"# **Дополнительно**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1430,
+			"y":-3720,
+			"width":600,
+			"height":160,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -210,6 +244,33 @@
 			"fromSide":"bottom",
 			"toNode":"2d2f0e24609633a4",
 			"toSide":"top"
+		},
+		{
+			"id":"86eeb5822be839dd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"dc6511000be7c50b",
+			"fromSide":"bottom",
+			"toNode":"e6d791aadff086f5",
+			"toSide":"top"
+		},
+		{
+			"id":"981e950e2064884b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3cad32efc7c698de",
+			"fromSide":"bottom",
+			"toNode":"97a4655c6dc79af2",
+			"toSide":"top"
+		},
+		{
+			"id":"13d57551e6d735a6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"97a4655c6dc79af2",
+			"fromSide":"bottom",
+			"toNode":"cfaf726d96a9ae10",
+			"toSide":"bottom"
 		}
 	]
 }
