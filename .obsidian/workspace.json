@@ -4,38 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4c599bdf48a62346",
+        "id": "e308f38b0ab0158b",
         "type": "tabs",
         "children": [
           {
-            "id": "4667a21ae447f4aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Linux/Топ ПО.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Топ ПО"
-            }
-          },
-          {
-            "id": "9f6facc44671afdd",
+            "id": "be17a698272fb41c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Programming/C++/Roadmap.canvas",
+                "file": "Programming/C++/Ютуб.canvas",
                 "viewState": {
-                  "x": -3050.6658118140367,
-                  "y": 141.44393509227905,
-                  "zoom": -1.5215880946998666
+                  "x": 370.52773711030244,
+                  "y": 18.413183250698637,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Roadmap"
+              "title": "Ютуб"
             }
           }
         ]
@@ -91,7 +77,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +132,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -157,10 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Аниме/Список.md"
+                "file": "Programming/C++/Ютуб.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Список"
+              "title": "Структура Ютуб"
             }
           },
           {
@@ -203,7 +195,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Programming/C++/Roadmap.canvas"
+                "file": "Programming/C++/Ютуб.canvas"
               },
               "icon": "lucide-file-signature",
               "title": "Сноски"
@@ -225,18 +217,19 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming/Linux/Топ ПО.md"
+                "file": "Programming/C++/Ютуб.canvas"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Топ ПО"
+              "title": "Свойства файла для Ютуб"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,8 +249,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4667a21ae447f4aa",
+  "active": "be17a698272fb41c",
   "lastOpenFiles": [
+    "Programming/C++/Ютуб.canvas",
+    "Programming/C++/Безымянная Kanban-доска.md",
+    "Programming/C++/Без названия.base",
     "Programming/C++/Roadmap.canvas",
     "Programming/Linux/Топ ПО.md",
     "Бэкап ссылок с браузера с++ и лин.md",
@@ -300,10 +296,8 @@
     "Programming/C++/Cmake 2.md",
     "Programming/C++/Первичный файл.md",
     "Programming/C++/Cmake.md",
-    "Programming/C++/STL.md",
     "Programming/lualua",
     "resourse/Алгоритм действий на иксы.pdf",
-    "resourse/анализ фондов и инвестиций.pdf",
     "Без названия 1.canvas",
     "Крипта && Трейдинг/Ретродропы/Без названия.canvas"
   ]
