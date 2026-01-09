@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "33cec556fb4bc5d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e308f38b0ab0158b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be17a698272fb41c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Linux/Топ ПО.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Топ ПО"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a505a15b817a73ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ea7fe963a8b7ae7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7340e77315431e5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c16f1c51ffef3ab0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "c20b4d1593c52d2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cbad0767b2b80dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2511e934fb935767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abc8b07c4ec5e85f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/C++/стандарт 17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для стандарт 17"
+            }
+          },
+          {
+            "id": "575d0d0eb2b88ad0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Education/Аниме/Список.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Список"
+            }
+          },
+          {
+            "id": "c0f30f5e5c28acdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "068697722cfa471c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/C++/Ютуб.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Ютуб"
+            }
+          },
+          {
+            "id": "f02f166ec707dacf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "961b38165cb2e917",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "878db530dddfef33",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "c811ffe8adc0dc5f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Programming/C++/Ютуб.canvas"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Сноски"
+            }
+          },
+          {
+            "id": "c5d435cc9b54e5c6",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "8da26ae15eccc231",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Programming/C++/Ютуб.canvas"
+              },
+              "icon": "lucide-info",
+              "title": "Свойства файла для Ютуб"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-projects:Open projects": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "be17a698272fb41c",
+  "lastOpenFiles": [
+    "Programming/C++/Ютуб.canvas",
+    "Programming/Linux/Топ ПО.md",
+    "Programming/C++/Безымянная Kanban-доска.md",
+    "Programming/C++/Без названия.base",
+    "Programming/C++/Roadmap.canvas",
+    "Бэкап ссылок с браузера с++ и лин.md",
+    "Programming/C++/FTXUI.md",
+    "resourse/Pasted image 20260102231748.png",
+    "resourse/Pasted image 20260102231520.png",
+    "resourse/Pasted image 20260102230306.png",
+    "resourse/Pasted image 20260102230034.png",
+    "resourse/Pasted image 20260102230029.png",
+    "resourse/Pasted image 20260102225147.png",
+    "resourse/Pasted image 20260102225139.png",
+    "resourse/Pasted image 20260102224033.png",
+    "resourse/Pasted image 20260102223834.png",
+    "resourse/Pasted image 20260102223624.png",
+    "Programming/C++/RTTI.md",
+    "Excalidraw/Drawing 2026-01-02 20.50.36.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-02 21.01.07.excalidraw.md",
+    "Безымянная Kanban-доска.md",
+    "Excalidraw/Drawing 2026-01-02 20.48.49.excalidraw.md",
+    "Excalidraw",
+    "Без названия 5.base",
+    "Без названия 4.base",
+    "Без названия.base",
+    "Без названия 3.base",
+    "Без названия 2.base",
+    "Без названия 1.base",
+    "шаблоны/Default Template.md",
+    "Programming/Отдельные умные обрывки по прогр/Плюсовая война в статьях на хабре.md",
+    "Крипта && Трейдинг/Начало.md",
+    "Крипта && Трейдинг/Методичка смарта-мани.md",
+    "Крипта && Трейдинг/30 идей пассивного дохода.md",
+    "Крипта && Трейдинг/Ретродропы/Список Tg-кликеров.md",
+    "Excalidraw/Drawing 2025-05-02 00.01.25.excalidraw.md",
+    "Programming/C++/Сборка.md",
+    "Programming/C++/Сеть.md",
+    "Programming/C++/21 новая функция современного с++.md",
+    "Programming/C++/Все стандарты сразу.md",
+    "Programming/C++/Динамическая типизация.md",
+    "Programming/C++/Заголовочные файлы и что в них.md",
+    "Programming/C++/Cmake 2.md",
+    "Programming/C++/Первичный файл.md",
+    "Programming/C++/Cmake.md",
+    "Programming/lualua",
+    "resourse/Алгоритм действий на иксы.pdf",
+    "Без названия 1.canvas",
+    "Крипта && Трейдинг/Ретродропы/Без названия.canvas"
+  ]
+}

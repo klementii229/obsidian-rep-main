@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{
+			"id":"14819a18d48e23d8",
+			"type":"text",
+			"text":"# **Плейлисты по С++**\n- [ ] [Лекторий ФПМИ](https://www.youtube.com/watch?v=GHmUMNer-q4&list=PL4_hYwCyhAva4P9Aztc7Se5H0xDI92wmc)\n- [ ] [Советы по С++](https://www.youtube.com/watch?v=1lE6wuWVKkU&list=PLdhEOd5Bckb61pPGGY9lN_ob4gUFbeDQ5)\n- [ ] [Канал с несколькими плейлистами Efremov](https://youtu.be/N3Y-UFqzIbM?si=igMUX1oXMetKdJl2)\n- [ ] [Кафедра мфти](https://www.youtube.com/watch?v=OUMQLaJZujA&list=PL55ElYIEKI0AIeQxsp7iW3WmUPdu7FTh-)\n- [ ] [Английский для IT](https://www.youtube.com/watch?v=4RYqlAPIfD0&list=PL0BJapvyPWKGfHnQ-aFz4abjx_vr-Ubzq)\n- [ ] [ФКН ФШЭ лекции по архитектуре](https://www.youtube.com/watch?v=4SRaUaRObTg&list=PLEwK9wdS5g0q5FSy6YXuSrAl2FrSS5bMO)\n- [ ] [Гарвард CS 50](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)\n- [ ] [Simple coding Cmake](https://www.youtube.com/watch?v=SM3Klt2rY8g&list=PL6x9Hnsyqn2UwWjSvjCzAY6sEOBrHY7VH)\n- [ ] [Константин Владимиров Лекции](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)\n- [ ] [Тимофей Хирьянов Лекции](https://www.youtube.com/watch?v=MWsfHQaUzI0&list=PLRDzFCPr95fL_5Xvnufpwj2uYZnZBBnsr)\n",
+			"styleAttributes":{},
+			"x":-640,
+			"y":-320,
+			"width":400,
+			"height":560
+		},
+		{
+			"id":"c2c9ae6aff933082",
+			"type":"text",
+			"text":"# **Читы & Реверс**\n[Курс по созданию читов с 0](https://www.youtube.com/watch?v=eO3A1rV-stk&list=PLqTDSs7TkS43meTTt0d6zEHcka_D3HWCC)",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-320,
+			"width":520,
+			"height":340
+		},
+		{"id":"35f571c612d0b726","type":"link","url":"https://www.youtube.com/watch?v=zw6V3SDsXDk&list=PL4_hYwCyhAva37lNnoMuBcKRELso5nvBm&index=2","x":480,"y":-320,"width":360,"height":340,"color":"5"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
