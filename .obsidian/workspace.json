@@ -11,17 +11,14 @@
             "id": "be17a698272fb41c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programming/C++/Ютуб.canvas",
-                "viewState": {
-                  "x": 370.52773711030244,
-                  "y": 18.413183250698637,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "Programming/Linux/Топ ПО.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ютуб"
+              "icon": "lucide-file",
+              "title": "Топ ПО"
             }
           }
         ]
@@ -77,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
