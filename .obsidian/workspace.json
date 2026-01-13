@@ -11,17 +11,14 @@
             "id": "be17a698272fb41c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programming/C++/Roadmap.canvas",
-                "viewState": {
-                  "x": -1132.301196275734,
-                  "y": 45.18108606369424,
-                  "zoom": -1.5215880946998666
-                }
+                "file": "Programming/Linux/Топ ПО.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Roadmap"
+              "icon": "lucide-file",
+              "title": "Топ ПО"
             }
           }
         ]
@@ -251,10 +248,11 @@
   "active": "be17a698272fb41c",
   "lastOpenFiles": [
     "Programming/C++/Ютуб.canvas",
+    "Programming/C++/Roadmap.canvas",
+    "Programming/C++/Сборка.md",
     "Programming/Linux/Топ ПО.md",
     "Programming/C++/Безымянная Kanban-доска.md",
     "Programming/C++/Без названия.base",
-    "Programming/C++/Roadmap.canvas",
     "Бэкап ссылок с браузера с++ и лин.md",
     "Programming/C++/FTXUI.md",
     "resourse/Pasted image 20260102231748.png",
@@ -286,7 +284,6 @@
     "Крипта && Трейдинг/30 идей пассивного дохода.md",
     "Крипта && Трейдинг/Ретродропы/Список Tg-кликеров.md",
     "Excalidraw/Drawing 2025-05-02 00.01.25.excalidraw.md",
-    "Programming/C++/Сборка.md",
     "Programming/C++/Сеть.md",
     "Programming/C++/21 новая функция современного с++.md",
     "Programming/C++/Все стандарты сразу.md",
