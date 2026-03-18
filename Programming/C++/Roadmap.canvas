@@ -13,7 +13,8 @@
 			"x":-2960,
 			"y":-2160,
 			"width":600,
-			"height":880
+			"height":880,
+			"color":"#37ff00"
 		},
 		{
 			"id":"dda226fd02858c35",
@@ -23,7 +24,8 @@
 			"x":-4320,
 			"y":-2160,
 			"width":600,
-			"height":880
+			"height":880,
+			"color":"#37ff00"
 		},
 		{
 			"id":"c2ef29ca4faff5d9",
@@ -50,7 +52,7 @@
 		{
 			"id":"cfaf726d96a9ae10",
 			"type":"text",
-			"text":"[CPP Core  Guidelines](https://cpp-core-guidelines-docs.vercel.app/introduction)\n[Core Guide](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)\n[400 вопросов С++](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS/blob/main/questions-400/junior.md)\n[Паттерны y2k](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Алгоритмы Диапазонов](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Cmake туториал](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)\n[Сайт умного мужика на анг, там тоже корунтины были](https://vishalchovatiya.com/posts\n[Путеводитель по неопр поведению](https://github.com/Nekrolm/ubbook)\n",
+			"text":"[CPP Core  Guidelines](https://cpp-core-guidelines-docs.vercel.app/introduction)\n[Core Guide](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)\n[400 вопросов С++](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS/blob/main/questions-400/junior.md)\n[Паттерны y2k](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Алгоритмы Диапазонов](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Cmake туториал](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)\n[Сайт умного мужика на анг, там тоже корунтины были](https://vishalchovatiya.com/posts\n[Путеводитель по неопр поведению](https://github.com/Nekrolm/ubbook)\n\n---\nLern cpp и его брат аналог:\n\nhttps://ravesli.com/uroki-cpp/\nhttps://www.learncpp.com/\n",
 			"styleAttributes":{
 				"textAlign":null,
 				"border":null
@@ -58,7 +60,7 @@
 			"x":-3640,
 			"y":860,
 			"width":600,
-			"height":400
+			"height":540
 		},
 		{
 			"id":"97a4655c6dc79af2",
@@ -74,7 +76,7 @@
 		{
 			"id":"e6d791aadff086f5",
 			"type":"text",
-			"text":"[BSD DOC](https://docs.freebsd.org/ru/books/handbook/preface/)",
+			"text":"[BSD DOC](https://docs.freebsd.org/ru/books/handbook/preface/)\n[Справочник команд линукса на русском](https://losst.pro/)\n[Ещё сайт сомнительно но ок](https://gnulinux.pro)\n",
 			"styleAttributes":{},
 			"x":-5250,
 			"y":-3440,
@@ -188,7 +190,7 @@
 		{
 			"id":"30f38618ffa819e5",
 			"type":"text",
-			"text":"![[Pasted image 20260102231748.png]]\n[Ещё про паттерны на гит](https://github.com/georgedem975/patterns)\n",
+			"text":"![[Pasted image 20260102231748.png]]\n[Ещё про паттерны на гит](https://github.com/georgedem975/patterns)\n[От книги тот самый красивый сайт с паттернами](https://refactoringu.ru/ru/design-patterns.html)",
 			"styleAttributes":{
 				"textAlign":"center",
 				"border":null
@@ -196,7 +198,7 @@
 			"x":-3640,
 			"y":-280,
 			"width":600,
-			"height":880
+			"height":940
 		}
 	],
 	"edges":[
@@ -267,6 +269,7 @@
 			"id":"1abbaf37702abccd",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"30f38618ffa819e5",
 			"fromSide":"bottom",
 			"toNode":"97a4655c6dc79af2",

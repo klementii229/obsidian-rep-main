@@ -14,11 +14,28 @@
               "type": "markdown",
               "state": {
                 "file": "Programming/Linux/Топ ПО.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Топ ПО"
+            }
+          },
+          {
+            "id": "473c4326a1bd0f24",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Programming/C++/Roadmap.canvas",
+                "viewState": {
+                  "x": -3063.6754789185748,
+                  "y": 553.1292643587651,
+                  "zoom": -1.2282528292984523
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Roadmap"
             }
           }
         ]
@@ -78,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 210.5
   },
   "right": {
     "id": "cbad0767b2b80dd9",
@@ -247,14 +264,30 @@
   },
   "active": "be17a698272fb41c",
   "lastOpenFiles": [
-    "Programming/C++/Ютуб.canvas",
     "Programming/C++/Roadmap.canvas",
-    "Programming/C++/Сборка.md",
     "Programming/Linux/Топ ПО.md",
+    "Крипта && Трейдинг/30 идей пассивного дохода.md",
+    "Programming/Linux/docker.md",
+    "Без названия 1.base",
+    "Без названия.base",
+    "Без названия.canvas",
+    "Programming/Rust/Main.rs.md",
+    "Бэкап ссылок с браузера с++ и лин.md",
+    "Programming/Rust",
+    "Programming/C++/Стандарт 20.md",
+    "Programming/C++/Стандарт 14.md",
+    "Programming/C++/Стандарт 11.md",
+    "Programming/C++/стандарт 17.md",
+    "Programming/C++/Сборка.md",
+    "Programming/C++/21 новая функция современного с++.md",
+    "Programming/C++/Все стандарты сразу.md",
+    "Programming/C++/FTXUI.md",
+    "Programming/C++/Ютуб.canvas",
+    "Programming/C++/RTTI.md",
+    "Programming/C/SQLite Lib.md",
+    "Programming/C",
     "Programming/C++/Безымянная Kanban-доска.md",
     "Programming/C++/Без названия.base",
-    "Бэкап ссылок с браузера с++ и лин.md",
-    "Programming/C++/FTXUI.md",
     "resourse/Pasted image 20260102231748.png",
     "resourse/Pasted image 20260102231520.png",
     "resourse/Pasted image 20260102230306.png",
@@ -265,7 +298,6 @@
     "resourse/Pasted image 20260102224033.png",
     "resourse/Pasted image 20260102223834.png",
     "resourse/Pasted image 20260102223624.png",
-    "Programming/C++/RTTI.md",
     "Excalidraw/Drawing 2026-01-02 20.50.36.excalidraw.md",
     "Excalidraw/Drawing 2026-01-02 21.01.07.excalidraw.md",
     "Безымянная Kanban-доска.md",
@@ -273,27 +305,13 @@
     "Excalidraw",
     "Без названия 5.base",
     "Без названия 4.base",
-    "Без названия.base",
     "Без названия 3.base",
     "Без названия 2.base",
-    "Без названия 1.base",
     "шаблоны/Default Template.md",
     "Programming/Отдельные умные обрывки по прогр/Плюсовая война в статьях на хабре.md",
     "Крипта && Трейдинг/Начало.md",
     "Крипта && Трейдинг/Методичка смарта-мани.md",
-    "Крипта && Трейдинг/30 идей пассивного дохода.md",
     "Крипта && Трейдинг/Ретродропы/Список Tg-кликеров.md",
-    "Excalidraw/Drawing 2025-05-02 00.01.25.excalidraw.md",
-    "Programming/C++/Сеть.md",
-    "Programming/C++/21 новая функция современного с++.md",
-    "Programming/C++/Все стандарты сразу.md",
-    "Programming/C++/Динамическая типизация.md",
-    "Programming/C++/Заголовочные файлы и что в них.md",
-    "Programming/C++/Cmake 2.md",
-    "Programming/C++/Первичный файл.md",
-    "Programming/C++/Cmake.md",
-    "Programming/lualua",
-    "resourse/Алгоритм действий на иксы.pdf",
     "Без названия 1.canvas",
     "Крипта && Трейдинг/Ретродропы/Без названия.canvas"
   ]
