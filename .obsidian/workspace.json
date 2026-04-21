@@ -11,14 +11,17 @@
             "id": "473c4326a1bd0f24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Programming/Linux/Топ ПО.md",
-                "mode": "source",
-                "source": false
+                "file": "Programming/C++/Roadmap.canvas",
+                "viewState": {
+                  "x": -598.1383067103839,
+                  "y": -13.56278491390865,
+                  "zoom": -1.2282528292984523
+                }
               },
-              "icon": "lucide-file",
-              "title": "Топ ПО"
+              "icon": "lucide-layout-dashboard",
+              "title": "Roadmap"
             }
           }
         ]
@@ -247,11 +250,16 @@
   },
   "active": "473c4326a1bd0f24",
   "lastOpenFiles": [
+    "Programming/C++/Roadmap.canvas",
+    "Programming/Zig/Ziglang.canvas",
+    "Programming/Zig/Без названия.base",
+    "Programming/Zig",
+    "Programming/Linux/Топ ПО.md",
+    "Programming/C++/FTXUI.md",
+    "Programming/C++/Ютуб.canvas",
     "Бэкап ссылок с браузера с++ и лин.md",
     "Без названия.base",
     "Без названия 1.base",
-    "Programming/Linux/Топ ПО.md",
-    "Programming/C++/Roadmap.canvas",
     "Крипта && Трейдинг/30 идей пассивного дохода.md",
     "Programming/Linux/docker.md",
     "Без названия.canvas",
@@ -264,8 +272,6 @@
     "Programming/C++/Сборка.md",
     "Programming/C++/21 новая функция современного с++.md",
     "Programming/C++/Все стандарты сразу.md",
-    "Programming/C++/FTXUI.md",
-    "Programming/C++/Ютуб.canvas",
     "Programming/C++/RTTI.md",
     "Programming/C/SQLite Lib.md",
     "Programming/C",
@@ -288,8 +294,6 @@
     "Excalidraw",
     "Без названия 5.base",
     "Без названия 4.base",
-    "Без названия 3.base",
-    "Без названия 2.base",
     "шаблоны/Default Template.md",
     "Programming/Отдельные умные обрывки по прогр/Плюсовая война в статьях на хабре.md",
     "Крипта && Трейдинг/Начало.md",

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{
+			"id":"ac85869b091eaa69",
+			"type":"text",
+			"text":"[Documentation](https://ziglang.org/documentation/0.16.0/#Hello-World)\n[Ziglings инструмент для упращения установки языка](https://codeberg.org/ziglings/exercises/#ziglings)",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-180,
+			"width":600,
+			"height":420
+		},
+		{"id":"240b5c792120f09c","type":"link","url":"https://ziglang.org/download/0.16.0/release-notes.html#Time","x":160,"y":-310,"width":620,"height":190},
+		{"id":"09b0846ecd409551","type":"link","url":"https://github.com/dee0xeed/learning-zig-rus/blob/main/src/ch01.md","x":160,"y":-20,"width":620,"height":300}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -52,7 +52,7 @@
 		{
 			"id":"cfaf726d96a9ae10",
 			"type":"text",
-			"text":"[CPP Core  Guidelines](https://cpp-core-guidelines-docs.vercel.app/introduction)\n[Core Guide](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)\n[400 вопросов С++](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS/blob/main/questions-400/junior.md)\n[Паттерны y2k](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Алгоритмы Диапазонов](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Cmake туториал](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)\n[Сайт умного мужика на анг, там тоже корунтины были](https://vishalchovatiya.com/posts\n[Путеводитель по неопр поведению](https://github.com/Nekrolm/ubbook)\n\n---\nLern cpp и его брат аналог:\n\nhttps://ravesli.com/uroki-cpp/\nhttps://www.learncpp.com/\n",
+			"text":"[CPP Core  Guidelines](https://cpp-core-guidelines-docs.vercel.app/introduction)\n[Core Guide](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)\n[400 вопросов С++](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS/blob/main/questions-400/junior.md)\n[Паттерны y2k](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Алгоритмы Диапазонов](https://y2kot.gitbook.io/untitled/patterns/creationals-patterns/abstract-factory/realizacii-na-s++)\n[Cmake туториал](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)\n[Сайт умного мужика на анг, там тоже корунтины были](https://vishalchovatiya.com/posts\n[Путеводитель по неопр поведению](https://github.com/Nekrolm/ubbook)\n[Hacking CPP там алгоритмы, заметки](https://hackingcpp.com/)\n\n---\nLern cpp и его брат аналог:\n\nhttps://ravesli.com/uroki-cpp/\nhttps://www.learncpp.com/\n\n**Вот тут по Boost хороший user guide:**\n[Boost user guide](https://www.boost.org/doc/libs/latest/doc/html/boost_asio/overview/basics.html)",
 			"styleAttributes":{
 				"textAlign":null,
 				"border":null
@@ -60,7 +60,7 @@
 			"x":-3640,
 			"y":860,
 			"width":600,
-			"height":540
+			"height":660
 		},
 		{
 			"id":"97a4655c6dc79af2",
@@ -199,6 +199,16 @@
 			"y":-280,
 			"width":600,
 			"height":940
+		},
+		{
+			"id":"1c1f24ed30a3bb44",
+			"type":"text",
+			"text":"Эти сайты нахуй никогда не закончатся\n\n[Типо перевода равесли](https://radioprog.ru/category/172)\n\n\nhttps://www.fluentcpp.com/",
+			"styleAttributes":{},
+			"x":-2740,
+			"y":920,
+			"width":620,
+			"height":480
 		}
 	],
 	"edges":[
@@ -228,15 +238,6 @@
 			"fromSide":"bottom",
 			"toNode":"e6d791aadff086f5",
 			"toSide":"top"
-		},
-		{
-			"id":"13d57551e6d735a6",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"97a4655c6dc79af2",
-			"fromSide":"bottom",
-			"toNode":"cfaf726d96a9ae10",
-			"toSide":"bottom"
 		},
 		{
 			"id":"40e31b6ee35f170e",
@@ -274,6 +275,15 @@
 			"fromSide":"bottom",
 			"toNode":"97a4655c6dc79af2",
 			"toSide":"top"
+		},
+		{
+			"id":"acb20e5414fec091",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"97a4655c6dc79af2",
+			"fromSide":"right",
+			"toNode":"cfaf726d96a9ae10",
+			"toSide":"left"
 		}
 	]
 }
