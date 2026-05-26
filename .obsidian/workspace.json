@@ -8,20 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "473c4326a1bd0f24",
+            "id": "b4c85649dc0e6cfa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Programming/C++/Roadmap.canvas",
-                "viewState": {
-                  "x": -598.1383067103839,
-                  "y": -13.56278491390865,
-                  "zoom": -1.2282528292984523
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Roadmap"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -81,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 276.5
   },
   "right": {
     "id": "cbad0767b2b80dd9",
@@ -248,19 +241,31 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "473c4326a1bd0f24",
+  "active": "de3db6077e22c87c",
   "lastOpenFiles": [
+    "resourse/Pasted image 20240522131444.png",
+    "Excalidraw/Drawing 2026-01-02 20.48.49.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-02 20.50.36.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-02 21.01.07.excalidraw.md",
+    "Крипта && Трейдинг/Словарь-криптана.md",
+    "Крипта && Трейдинг/Методичка смарта-мани.md",
+    "Крипта && Трейдинг/Начало.md",
+    "Крипта && Трейдинг/30 идей пассивного дохода.md",
+    "Programming/C++/True Roadmap.canvas",
+    "resourse/97_veschey_kotorye_dolzhen_znat_kazhdy_programmist.pdf",
     "Programming/C++/Roadmap.canvas",
+    "resourse/Pasted image 20260526231727.png",
+    "Programming/C++/Без названия.base",
     "Programming/Zig/Ziglang.canvas",
+    "Programming/Linux/Топ ПО.md",
+    "resourse/Pasted image 20260517140203.png",
+    "Programming/C++/Ютуб.canvas",
     "Programming/Zig/Без названия.base",
     "Programming/Zig",
-    "Programming/Linux/Топ ПО.md",
     "Programming/C++/FTXUI.md",
-    "Programming/C++/Ютуб.canvas",
     "Бэкап ссылок с браузера с++ и лин.md",
     "Без названия.base",
     "Без названия 1.base",
-    "Крипта && Трейдинг/30 идей пассивного дохода.md",
     "Programming/Linux/docker.md",
     "Без названия.canvas",
     "Programming/Rust/Main.rs.md",
@@ -276,7 +281,6 @@
     "Programming/C/SQLite Lib.md",
     "Programming/C",
     "Programming/C++/Безымянная Kanban-доска.md",
-    "Programming/C++/Без названия.base",
     "resourse/Pasted image 20260102231748.png",
     "resourse/Pasted image 20260102231520.png",
     "resourse/Pasted image 20260102230306.png",
@@ -285,20 +289,11 @@
     "resourse/Pasted image 20260102225147.png",
     "resourse/Pasted image 20260102225139.png",
     "resourse/Pasted image 20260102224033.png",
-    "resourse/Pasted image 20260102223834.png",
-    "resourse/Pasted image 20260102223624.png",
-    "Excalidraw/Drawing 2026-01-02 20.50.36.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-02 21.01.07.excalidraw.md",
     "Безымянная Kanban-доска.md",
-    "Excalidraw/Drawing 2026-01-02 20.48.49.excalidraw.md",
     "Excalidraw",
     "Без названия 5.base",
-    "Без названия 4.base",
     "шаблоны/Default Template.md",
     "Programming/Отдельные умные обрывки по прогр/Плюсовая война в статьях на хабре.md",
-    "Крипта && Трейдинг/Начало.md",
-    "Крипта && Трейдинг/Методичка смарта-мани.md",
-    "Крипта && Трейдинг/Ретродропы/Список Tg-кликеров.md",
     "Без названия 1.canvas",
     "Крипта && Трейдинг/Ретродропы/Без названия.canvas"
   ]

@@ -63,17 +63,6 @@
 			"height":660
 		},
 		{
-			"id":"97a4655c6dc79af2",
-			"type":"text",
-			"text":"Отдельное внимание к статьям ПРО ВСЁ ПО:\n[Кремниевая долина гугл](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ru.md)\n[Бэкенд](https://github.com/cheatsnake/backend-cheats)\n[Как сделать офигенный CRUD](https://github.com/beagreatengineer/how-to-develop-perfect-crud)",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4400,
-			"y":860,
-			"width":560,
-			"height":400,
-			"color":"3"
-		},
-		{
 			"id":"e6d791aadff086f5",
 			"type":"text",
 			"text":"[BSD DOC](https://docs.freebsd.org/ru/books/handbook/preface/)\n[Справочник команд линукса на русском](https://losst.pro/)\n[Ещё сайт сомнительно но ок](https://gnulinux.pro)\n",
@@ -203,12 +192,43 @@
 		{
 			"id":"1c1f24ed30a3bb44",
 			"type":"text",
-			"text":"Эти сайты нахуй никогда не закончатся\n\n[Типо перевода равесли](https://radioprog.ru/category/172)\n\n\nhttps://www.fluentcpp.com/",
+			"text":"Эти сайты нахуй никогда не закончатся\n\n[Типо перевода равесли](https://radioprog.ru/category/172)\n\nhttps://www.fluentcpp.com/\n\nhttps://hackingcpp.com/cpp/beginners_guide",
 			"styleAttributes":{},
 			"x":-2740,
 			"y":920,
 			"width":620,
 			"height":480
+		},
+		{
+			"id":"d5ce252f5139544d",
+			"type":"text",
+			"text":"[Тпрогер](https://tproger.ru/tag/backend)",
+			"styleAttributes":{},
+			"x":-4330,
+			"y":1280,
+			"width":420,
+			"height":120
+		},
+		{
+			"id":"3808ed2c444ba76d",
+			"type":"text",
+			"text":"![[Pasted image 20260517140203.png]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":160,
+			"y":-360,
+			"width":600,
+			"height":840
+		},
+		{
+			"id":"97a4655c6dc79af2",
+			"type":"text",
+			"text":"Отдельное внимание к статьям ПРО ВСЁ ПО:\n- [x] [Кремниевая долина гугл](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ru.md)\n- [ ] [Бэкенд](https://github.com/cheatsnake/backend-cheats)\n- [x] [Как сделать офигенный CRUD](https://github.com/beagreatengineer/how-to-develop-perfect-crud)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4470,
+			"y":790,
+			"width":560,
+			"height":400,
+			"color":"4"
 		}
 	],
 	"edges":[
