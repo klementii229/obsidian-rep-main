@@ -11,10 +11,17 @@
             "id": "b4c85649dc0e6cfa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "canvas",
+              "state": {
+                "file": "Programming/C++/True Roadmap.canvas",
+                "viewState": {
+                  "x": 26.03842476185673,
+                  "y": 344.2364186584721,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "True Roadmap"
             }
           }
         ]
@@ -241,8 +248,20 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "de3db6077e22c87c",
+  "active": "b4c85649dc0e6cfa",
   "lastOpenFiles": [
+    "Programming/Linux/Топ ПО.md",
+    "Programming/C++/Cmake 2.md",
+    "Programming/C++/True Roadmap.canvas",
+    "Programming/C++/Roadmap.canvas",
+    "Programming/C++/Ютуб.canvas",
+    "Programming/C++/FTXUI.md",
+    "Programming/C++/21 новая функция современного с++.md",
+    "Programming/C++/Сборка.md",
+    "Programming/C++/Динамическая типизация.md",
+    "Programming/C++/RTTI.md",
+    "Programming/C++/Заголовочные файлы и что в них.md",
+    "resourse/97_veschey_kotorye_dolzhen_znat_kazhdy_programmist 1.pdf",
     "resourse/Pasted image 20240522131444.png",
     "Excalidraw/Drawing 2026-01-02 20.48.49.excalidraw.md",
     "Excalidraw/Drawing 2026-01-02 20.50.36.excalidraw.md",
@@ -251,18 +270,13 @@
     "Крипта && Трейдинг/Методичка смарта-мани.md",
     "Крипта && Трейдинг/Начало.md",
     "Крипта && Трейдинг/30 идей пассивного дохода.md",
-    "Programming/C++/True Roadmap.canvas",
     "resourse/97_veschey_kotorye_dolzhen_znat_kazhdy_programmist.pdf",
-    "Programming/C++/Roadmap.canvas",
     "resourse/Pasted image 20260526231727.png",
     "Programming/C++/Без названия.base",
     "Programming/Zig/Ziglang.canvas",
-    "Programming/Linux/Топ ПО.md",
     "resourse/Pasted image 20260517140203.png",
-    "Programming/C++/Ютуб.canvas",
     "Programming/Zig/Без названия.base",
     "Programming/Zig",
-    "Programming/C++/FTXUI.md",
     "Бэкап ссылок с браузера с++ и лин.md",
     "Без названия.base",
     "Без названия 1.base",
@@ -274,10 +288,7 @@
     "Programming/C++/Стандарт 14.md",
     "Programming/C++/Стандарт 11.md",
     "Programming/C++/стандарт 17.md",
-    "Programming/C++/Сборка.md",
-    "Programming/C++/21 новая функция современного с++.md",
     "Programming/C++/Все стандарты сразу.md",
-    "Programming/C++/RTTI.md",
     "Programming/C/SQLite Lib.md",
     "Programming/C",
     "Programming/C++/Безымянная Kanban-доска.md",
@@ -288,12 +299,7 @@
     "resourse/Pasted image 20260102230029.png",
     "resourse/Pasted image 20260102225147.png",
     "resourse/Pasted image 20260102225139.png",
-    "resourse/Pasted image 20260102224033.png",
-    "Безымянная Kanban-доска.md",
     "Excalidraw",
-    "Без названия 5.base",
-    "шаблоны/Default Template.md",
-    "Programming/Отдельные умные обрывки по прогр/Плюсовая война в статьях на хабре.md",
     "Без названия 1.canvas",
     "Крипта && Трейдинг/Ретродропы/Без названия.canvas"
   ]
